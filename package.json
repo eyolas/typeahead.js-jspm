@@ -1,6 +1,6 @@
 {
   "name": "typeahead.js-jspm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple wrapper to make working with typeahead.js via jspm easier",
   "main": "index.js",
   "repository": {
@@ -13,7 +13,7 @@
     "url": "https://github.com/eyolas/typeahead.js-browserify/issues"
   },
   "homepage": "https://github.com/eyolas/typeahead.js-browserify#readme",
-  "devDependencies": {
+  "dependencies": {
     "typeahead.js": "eyolas/typeahead.js"
   }
 }
