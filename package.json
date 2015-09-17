@@ -1,6 +1,6 @@
 {
   "name": "typeahead.js-jspm",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Simple wrapper to make working with typeahead.js via jspm easier",
   "main": "index.js",
   "repository": {
