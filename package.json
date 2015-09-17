@@ -1,16 +1,16 @@
 {
   "name": "typeahead.js-jspm",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Simple wrapper to make working with typeahead.js via jspm easier",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eyolas/typeahead.js-browserify.git"
+    "url": "git+https://github.com/eyolas/typeahead.js-jspm.git"
   },
   "author": "David Touzet <dtouzet@gmail.com>",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/eyolas/typeahead.js-browserify/issues"
+    "url": "https://github.com/eyolas/typeahead.js-jspm/issues"
   },
-  "homepage": "https://github.com/eyolas/typeahead.js-browserify#readme"
+  "homepage": "https://github.com/eyolas/typeahead.js-jspm#readme"
 }
