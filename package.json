@@ -8,7 +8,7 @@
     "url": "git+https://github.com/eyolas/typeahead.js-jspm.git"
   },
   "dependencies": {
-    "jquery": ">=1.7"
+    "jquery": "^2.2.0"
   },
   "author": "David Touzet <dtouzet@gmail.com>",
   "license": "WTFPL",
